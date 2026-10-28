@@ -1,6 +1,5 @@
-
-const SUPABASE_URL = "https://JOUW-PROJECT.supabase.co";
-const SUPABASE_KEY = "sb_publishable_JOUW-SLEUTEL";
+const SUPABASE_URL = "https://schoolproject.supabase.co";
+const SUPABASE_KEY = "sb_publishable_grX2Q0r5e5IML5mF58hU8A_jtPIVBgv";
 
 async function registreerBezoek() {
   try {
